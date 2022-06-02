@@ -1,0 +1,35 @@
+Mother_job,Father_job,Avg,Rank,mJob,mValue,fJob,fValue
+Civil services,Other,18,Excellent,Teacher,8,Teacher,9
+Civil services,Civil services,17,Excellent,Civil services,16,Civil services,7
+Teacher,At home,16,Excellent,Health care,3,Health care,1
+Teacher,Civil services,16,Excellent,At home,3,At home,2
+Civil services,Teacher,18,Excellent,Other,4,Other,15
+Health care,Civil services,19,Excellent,,,,
+Civil services,Other,16,Excellent,,,,
+Other,Other,16,Excellent,,,,
+Civil services,Other,17,Excellent,,,,
+Civil services,Teacher,17,Excellent,,,,
+Civil services,Other,17,Excellent,,,,
+Civil services,Other,17,Excellent,,,,
+Teacher,Teacher,19,Excellent,,,,
+Teacher,Other,19,Excellent,,,,
+Teacher,Teacher,18,Excellent,,,,
+Teacher,Teacher,16,Excellent,,,,
+At home,Other,16,Excellent,,,,
+Civil services,Civil services,17,Excellent,,,,
+Civil services,Teacher,16,Excellent,,,,
+Civil services,Teacher,18,Excellent,,,,
+Health care,Other,16,Excellent,,,,
+Civil services,Teacher,16,Excellent,,,,
+Other,Other,18,Excellent,,,,
+Civil services,Other,18,Excellent,,,,
+Other,Other,17,Excellent,,,,
+At home,At home,18,Excellent,,,,
+Civil services,Other,18,Excellent,,,,
+Teacher,Teacher,16,Excellent,,,,
+Health care,Health care,17,Excellent,,,,
+Civil services,Other,18,Excellent,,,,
+Civil services,Civil services,16,Excellent,,,,
+Teacher,Civil services,16,Excellent,,,,
+At home,Civil services,17,Excellent,,,,
+Other,Other,19,Excellent,,,,
